@@ -5,30 +5,19 @@ My name is Roberto.<br>Currently I am working as a Remote Product Development Sp
 ### About me
 
 * 🌍 I'm based in Foggia, Italy
-* 💻 I love javascript and its frameworks
+* 💻 I like to code in Javascript and its frameworks
 * 🧠 I'm studying to be a software architect
 * 🤝 I'm open to collaborate with anyone
 * 📖 I spend a lot of time reading books (not about computer science)
 * ⚡ Comics / Manga / Tv shows addicted
 
-
 ### My current tech stack:
 
-<p style="display: flex;gap: 0.5rem;">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Angular" /></a>
-</p>
+![My Skills](https://skillicons.dev/icons?i=angular,typescript,js,html,css,bootstrap,java,nodejs,mongodb)
 
 ### Where you can find me:
 
-<p style="display: flex;gap: 0.5rem;">
-<a href="https://www.linkedin.com/in/roberto-stanziale/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/rstanziale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-</p>
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roberto-stanziale/)
 
 ### My Github Stats
 
