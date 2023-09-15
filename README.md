@@ -18,9 +18,3 @@ My name is Roberto.<br>Currently I am working as a Remote Product Development Sp
 ### Where you can find me:
 
 [![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roberto-stanziale/)
-
-### My Github Stats
-
-<a href="http://www.github.com/rstanziale">
-<img src="https://github-readme-stats.vercel.app/api?username=rstanziale&show_icons=true&hide=&count_private=true&title_color=F6D7A7&text_color=C8E3D4&icon_color=C8E3D4&bg_color=87AAAA&hide_border=true&show_icons=true" alt="rstanziale's GitHub stats" />
-</a>
