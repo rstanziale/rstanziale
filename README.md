@@ -13,7 +13,7 @@ My name is Roberto.<br>Currently I am working as a Remote Product Development Sp
 
 ### My current tech stack:
 
-![My Skills](https://skillicons.dev/icons?i=angular,typescript,js,html,css,bootstrap,java,nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,angular,java,nodejs,express,mongodb&perline=5)
 
 ### Where you can find me:
 
