@@ -13,8 +13,21 @@ My name is Roberto.<br>Currently I am working as a Remote Product Development Sp
 
 ### My current tech stack:
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,angular,java,nodejs,express,mongodb&perline=5)
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript-%233178C6?logo=typescript&logoColor=white)
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031?logo=angular)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?logo=bootstrap&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-%23339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000?logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?logo=mongodb&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%232496ED?logo=docker&logoColor=white)
 
 ### Where you can find me:
 
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roberto-stanziale/)
+[![My linkedin](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/roberto-stanziale/)
