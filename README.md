@@ -23,6 +23,7 @@ My name is Roberto.<br>Currently I am working as a Remote Product Development Sp
 
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000?logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?logo=mongodb&logoColor=white)
 
